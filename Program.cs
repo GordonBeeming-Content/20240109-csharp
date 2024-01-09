@@ -1,7 +1,8 @@
-﻿var stringLiteral = @"c:\co""de\\m
+﻿var name = "Gordon";
+var stringLiteral = @"
+Hi {{ NAME }},
 
-
-
-y code";
+Strings are cool!
+";
 
 Console.WriteLine(stringLiteral);
