@@ -1,3 +1,3 @@
-﻿var someString = "Hello World";
+﻿var stringLiteral = "Hello World";
 
-Console.WriteLine(someString);
+Console.WriteLine(stringLiteral);
